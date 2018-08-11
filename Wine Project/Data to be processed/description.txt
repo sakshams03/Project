@@ -4,4 +4,5 @@
 3. Data is too big and comprises of more than 150000 data but since some lines lacks some data so we have to skip those.
 4. The task is to present wine data in decreasing order of quality.This is calculated on the basis of points it receives and the price of the wine.
 5. Wine Review jar simply extracts of useful data but data extracted contains many redundant (duplicate) enteries which is taken care in stage1. 
-6. You can Download Data from https://www.kaggle.com/zynicide/wine-reviews
+6. The Data is too big to be uploaded on GitHub so only a part of it is uploaded.
+6. You can Download full Data from https://www.kaggle.com/zynicide/wine-reviews
