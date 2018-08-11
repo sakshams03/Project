@@ -1,0 +1,5 @@
+1.The data is about various athletes who participated in olympics till 2016.
+2.The data is randomised ,ie, there is no basis of sorting criteria and also contyains some missing fields.
+3.Here the Indian participants are extracted and presented in cronical order.
+4.Data is too big to be uploaded on GitHub so only a part of data is uploaded.
+5.Full data can be downloaded from https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results.
