@@ -1,0 +1,7 @@
+1.We are given with semi-structured data (structured data with missing fileds) of wine reviews by various people.
+2.The data comprises of serial number,country,description,designation,points,price,province,region_1,region_2,variety,winery out of which
+  we need only country to which the wine belongs to,it's description/review price and the point given to the wine.
+3. Data is too big and comprises of more than 150000 data but since some lines lacks some data so we have to skip those.
+4. The task is to present wine data in decreasing order of quality.This is calculated on the basis of points it receives and the price of the wine.
+5. Wine Review jar simply extracts of useful data but data extracted contains many redundant (duplicate) enteries which is taken care in stage1. 
+6. You can Download Data from https://www.kaggle.com/zynicide/wine-reviews

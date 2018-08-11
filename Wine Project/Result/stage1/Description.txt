@@ -1,0 +1,4 @@
+1. The data extracted as alreay said contains redundant enteries which is taken care in this section.
+2. The file wineReport.csv contains that redundant data which is removed by the jar file names as string_count.jar.
+3. Again the jar rank.jar tells the various possible ranks that the wines can have.
+4. The problem with string_count.jar is that the data is sorted in lexical order with respect to country name which is not desired.
